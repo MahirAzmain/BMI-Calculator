@@ -1,4 +1,4 @@
-<img width="411" alt="Screenshot 2024-11-07 at 6 45 19 PM" src="https://github.com/user-attachments/assets/8017c09f-d66e-419f-8357-89c4f115c624"><img width="411" alt="Screenshot 2024-11-07 at 6 45 19 PM" src="https://github.com/user-attachments/assets/1d0f6bfc-8f93-4809-a72a-b53a42539d30">#  BMI Calculator
+#  BMI Calculator
 
 ## Description
 
